@@ -1,2 +1,5 @@
 # awesome-works-with-selfhosted
-Projects that work with selfhosted services
+Projects and applications that work with selfhosted services
+
+| Project / App | Works with |
+| ---- | ---- |
